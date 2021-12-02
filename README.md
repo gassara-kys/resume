@@ -99,6 +99,10 @@
 - CyberAgent Developper Conference2022(予定)
 - 他、社内勉強会やプライベート開催の勉強会多数
 
+### インタビュー
+
+- [とあるサーバーサイドエンジニアのキャリアシフト〜未経験からセキュリティエンジニアになれた理由〜](https://www.wantedly.com/companies/cyberagent/post_articles/116063)
+
 ### CTF主催
 
 - [CA BASE CAMP 2019](https://developers.cyberagent.co.jp/blog/archives/19910/)
