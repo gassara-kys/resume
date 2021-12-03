@@ -60,6 +60,7 @@
 - AWS
 - GCP
 - Kubenetes
+- IaC(Terraform, CDK)
 
 ### 資格・語学
 
