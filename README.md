@@ -97,8 +97,8 @@
 ### 登壇
 
 - [AWS Security Roadshow Japan 2021](https://www.cyberagent.co.jp/techinfo/news/detail/id=26836)
-- CyberAgent Developper Conference2022(予定)
-- 他、社内勉強会やプライベート開催の勉強会多数
+- [CyberAgent Developper Conference2022](https://cadc.cyberagent.co.jp/2022/program/cloud-security-monitoring/)
+- 他、社内勉強会やプライベート開催の勉強会
 
 ### インタビュー
 
