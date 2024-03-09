@@ -1,12 +1,10 @@
 # 職務経歴書
 
-`2021/12/02 現在` | `Software Engineer` | `Security`
+`2024/03/09 現在` | `Software Engineer` | `Security`
 
 ## 個人データ
 
 - 氏名： 小笠原 清志
-- ID: gassara-kys
-
 
 ## 職務要約
 
@@ -29,6 +27,7 @@
     - 脆弱性サイトと競技イベント向けのポイントシステム
 
 - 技術チーム
+  - 現在は技術チームのマネージャをしています
   - セキュリティソリューションの開発
     - クラウドモニタリングシステム（Golang）
     - ID基盤システム（Golang）
@@ -57,6 +56,7 @@
 - Java
 - Node.js
 - Vue.js
+- TypeScript
 - AWS
 - GCP
 - Kubenetes
@@ -75,7 +75,12 @@
 
 - エンジニアとしてインフラレイヤ含めバックエンド〜フロントエンドの技術領域に興味をもってスキルアップしていきたいというマインドを持っています
 - 現在はクラウドセキュリティやコンテナ技術、認証認可の領域に特に力をいれています
-- また、データ分析（MLOpsなどの運用面含め）やOPAなどのポリシーエンジンの技術を勉強中です
+- また、以下の領域について勉強中です
+  - データサイエンス領域（Generative AI、MLOpsなど）
+  - マネージメント領域（EM、PdMなど）
+  - セキュリティ関連のトレンド技術（CNAPPやASM、BASなど）
+  - RusｔやTypeScriptなどの言語
+  - OPAなどのポリシーエンジンの技術
 
 ### 領域
 
@@ -83,25 +88,31 @@
 - 求められる品質レベルやスピード感はその領域によって様々ですが、プロジェクト毎の変化を楽しみ柔軟に対応していきました。
 - 主に私はシステムの開発担当として、フロントエンド・バックエンドを担当しました。
 - その中でも業界通じて共通でもあるセキュリティの技術分野マネージメント分野が得意領域です
+- [RISKEN（OSS）](https://github.com/ca-risken/doc)のメンテナーでクラウドセキュリティ領域に精通しています
+- その他、生成AIを使った複数のプロダクトを開発しています
 
 ### コミュニケーション・マネジメント力
 
-- チームリーダーというポジションでの業務を多く経験してきました。（規模は３人から10人程度です）
+- チームリーダーというポジションでの業務を多く経験してきました。（規模は３〜10人程度です）
 - 事業側・開発側の双方の状況を把握しつつ情報共有・調整を心がけています
 - ビジネス的な課題など、目的やコンテキストがきちんと伝わること、担当者が納得して前進できるようコミュニケーション面を意識しています
-- チームが意思決定に迷う場合に、足元の問題だけではなく「どうあるべきか」という要件やコンセプトを大事にしています
-- そこから現実問題との差分を考えて、いわゆるフィット＆ギャップ分析（As-is/To-be/To-do）を行ったうえでチームのコンセプトがブレない意思決定をすることを心がけています
+- また、新たなプロダクトを作る場合のビジョン設定から実装までのモノづくりのプロセスが好きで、楽しんでチーム開発することを心がけてます
+- 現実と課題の差分のフィット＆ギャップ分析（As-is/To-be/To-do）を行ったうえで冷静にチームのコンセプトがブレない意思決定をするようにしています
 
 ## 業務外活動
 
 ### 登壇
 
+- [AWS Security and Risk Management Forum 2024](https://v2.nex-pro.com/campaign/63211/apply)
+- [FIRST 35th Annual FIRST Conference(LT)](https://www.first.org/conference/2023/conference-overview)
+- [CyberAgent Developper Conference 2022](https://cadc.cyberagent.co.jp/2022/program/cloud-security-monitoring/)
 - [AWS Security Roadshow Japan 2021](https://www.cyberagent.co.jp/techinfo/news/detail/id=26836)
-- [CyberAgent Developper Conference2022](https://cadc.cyberagent.co.jp/2022/program/cloud-security-monitoring/)
 - 他、社内勉強会やプライベート開催の勉強会
 
-### インタビュー
+### Blog／インタビュー
 
+- [生成AIでセキュリティの課題をどこまで改善できるか考える](https://developers.cyberagent.co.jp/blog/archives/45548/)
+- [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
 - [とあるサーバーサイドエンジニアのキャリアシフト〜未経験からセキュリティエンジニアになれた理由〜](https://www.wantedly.com/companies/cyberagent/post_articles/116063)
 
 ### CTF主催
@@ -115,8 +126,7 @@
 
 ### メディア
 
+- [X（Twitter）](https://twitter.com/gassara5)
+- [GitHub](https://github.com/gassara-kys)
 - [ブログ](https://zenn.dev/ogapan)
-- [Twitter](https://twitter.com/gassara5)
-
-
 
