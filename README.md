@@ -81,7 +81,7 @@
   - データサイエンス領域（Generative AI、MLOpsなど）
   - マネージメント領域（EM、PdMなど）
   - セキュリティ関連のトレンド技術（CNAPPやASM、BASなど）
-  - RusｔやTypeScriptなどの言語
+  - RustやTypeScriptなどの言語
   - OPAなどのポリシーエンジンの技術
 
 ### 領域
@@ -125,6 +125,7 @@
 ### OSS貢献
 
 - [セキュリティリスクを可視化するモニタリングツール RISKEN](https://github.com/ca-risken/doc)
+- [セキュリティのソースコードレビュー自動化ツール](https://github.com/marketplace/actions/risken-security-review)
 
 ### メディア
 
