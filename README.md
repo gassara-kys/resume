@@ -1,6 +1,6 @@
 # 職務経歴書
 
-`2024/03/09 現在` | `Software Engineer` | `Security`
+`2024/12/25 現在` | `Software Engineer` | `Security`
 
 ## 個人データ
 
@@ -23,15 +23,15 @@
 - オンサイトチーム（リーダ）
   - 社内のプロダクトのマネージメント関連や技術関連のセキュリティ相談及びコンサルタント(オンサイト対応)
   - セキュリティインシデント対応
-  - CTFイベント用のシステム開発（Go）
+  - CTFイベント用のシステム開発
     - 脆弱性サイトと競技イベント向けのポイントシステム
 
-- 技術チーム
+- 開発チーム（マネージャ）
   - チーム全体のマネージメント
   - セキュリティソリューションの開発
-    - クラウドモニタリングシステム（Go）
-    - ID基盤システム（Go）
-    - 生成AIを使ったコンシェルジュサービス（Go）
+    - クラウドモニタリングシステム
+    - ID基盤システム
+    - 生成AIを使った業務改善多数
   - 脅威モデリング
   - OSS開発
   - セキュリティの技術相談（対プロダクト）
@@ -42,7 +42,7 @@
   - アルバイト人材派遣業界のシステム開発ディレクション　
   - Desktopアプリ開発（Node.js, Electron）
   - オンライン予備校サービスのシステム開発（Java）
-  - Scrum
+  - Scrum開発
 - 食品業界
   - 輸配送システム新規開発（Java）
 - 金融業界
@@ -54,15 +54,16 @@
 
 ## 技術スタック
 
-- Go
-- Java
-- Node.js
-- Vue.js
-- TypeScript
 - AWS
 - GCP
 - Kubenetes
+- Go
+- Vue.js(Nuxt.js)
+- Ract(Next.js)
+- TypeScript
 - IaC(Terraform, CDK)
+- Java
+- Node.js
 
 ### 資格・語学
 
@@ -83,29 +84,27 @@
   - セキュリティ関連のトレンド技術（CNAPPやASM、BASなど）
   - RustやTypeScriptなどの言語
   - OPAなどのポリシーエンジンの技術
-  - 量子コンピューティングとその影響
 
 ### 領域
 
-- 金融、人材派遣、教育、セキュリティと幅広い領域のプロジェクトに従事してきました。
-- 求められる品質レベルやスピード感はその領域によって様々ですが、プロジェクト毎の変化を楽しみ柔軟に対応していきました。
-- 主に私はシステムの開発担当として、フロントエンド・バックエンドを担当しました。
-- その中でも業界通じて共通でもあるセキュリティの技術分野マネージメント分野が得意領域です
-- [RISKEN（OSS）](https://github.com/ca-risken/doc)のメンテナーでクラウドセキュリティ領域に精通しています
-- その他、生成AIを使った複数のプロダクトを開発しています
+- 金融、人材派遣、教育、セキュリティと幅広い領域のプロジェクトに従事しました
+  - 求められる品質レベルやスピード感は領域によって様々ですがプロダクトの価値とは何かを軸に柔軟な対応を行ってきました
+  - 主に私はエンジニアとして、フロントエンド・バックエンドの設計から実装を担当することが多いです
+- 私の強みはセキュリティとAIの技術領域です
+  - [RISKEN（OSS）](https://github.com/ca-risken/doc) ではメンテナーとしてクラウドセキュリティ領域に精通しています
+  - また、生成AIを業務やプロダクトに取り入れるプロジェクトをいくつも経験しています（ソースコードまたはブログ等参照）
 
 ### コミュニケーション・マネジメント力
 
-- チームリーダーというポジションでの業務を多く経験してきました。（規模は３〜10人程度です）
+- チームリーダーというポジションでの業務を多く経験してきました（規模は6〜10人程度です）
 - 事業側・開発側の双方の状況を把握しつつ情報共有・調整を心がけています
-- ビジネス的な課題など、目的やコンテキストがきちんと伝わること、担当者が納得して前進できるようコミュニケーション面を意識しています
+- ビジネス的な課題、目的やコンテキストがきちんと伝わること、担当者が納得して前進できるようコミュニケーション面を意識しています
 - また、新たなプロダクトを作る場合のビジョン設定から実装までのモノづくりのプロセスが好きで、楽しんでチーム開発することを心がけてます
-- 現実と課題の差分のフィット＆ギャップ分析（As-is/To-be/To-do）を行ったうえで冷静にチームのコンセプトがブレない意思決定をするようにしています
 
 ## 業務外活動
 
 ### 登壇
-
+- [生成 AI が切り拓く、今後のエンジニアリング環境 2024](https://pages.awscloud.com/eib-aiml-241115-reg.html)
 - [AWS Security and Risk Management Forum 2024](https://v2.nex-pro.com/campaign/63211/apply)
 - [FIRST 35th Annual FIRST Conference(LT)](https://www.first.org/conference/2023/conference-overview)
 - [CyberAgent Developper Conference 2022](https://cadc.cyberagent.co.jp/2022/program/cloud-security-monitoring/)
@@ -114,6 +113,7 @@
 
 ### Blog／インタビュー
 
+- [Dify と Amazon Bedrock を使って、簡単にセキュリティオペレーション自動化](https://aws.amazon.com/jp/builders-flash/202409/dify-bedrock-automate-security-operation/)
 - [生成AIでセキュリティの課題をどこまで改善できるか考える](https://developers.cyberagent.co.jp/blog/archives/45548/)
 - [1,000プロジェクトを越えるサイバーエージェントグループのクラウドセキュリティモニタリング](https://developers.cyberagent.co.jp/blog/archives/35053/)
 - [とあるサーバーサイドエンジニアのキャリアシフト〜未経験からセキュリティエンジニアになれた理由〜](https://www.wantedly.com/companies/cyberagent/post_articles/116063)
@@ -125,8 +125,9 @@
 
 ### OSS貢献
 
-- [セキュリティリスクを可視化するモニタリングツール RISKEN](https://github.com/ca-risken/doc)
+- [脆弱性DB(CVE, EPSS, KEV, GitHub PoC...)](https://github.com/ca-risken/vulnerability)
 - [セキュリティのソースコードレビュー自動化ツール](https://github.com/marketplace/actions/risken-security-review)
+- [セキュリティリスクを可視化するモニタリングツール RISKEN](https://github.com/ca-risken/doc)
 
 ### メディア
 
